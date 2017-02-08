@@ -1,6 +1,6 @@
 fecs 
 
-Maintainer: @sunbohong
+Maintainer: [@sunbohong](https://github.com/sunbohong)
 
 This plugin adds useful aliases.
 
